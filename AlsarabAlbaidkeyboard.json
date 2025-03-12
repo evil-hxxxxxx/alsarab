@@ -1,19 +1,20 @@
 {
-  "dialogTitle": "Update Available", 
-  "dialogSubtitle": "A new version is available with latest features and improvements",
+  "dialogTitle": "Update Available",
+  "dialogSubtitle": "A new version is available",
   "dialogBtnExtraTxt": "Later",
   "dialogBtnMainTxt": "Update Now",
+  "dialogDownloadLink": "https://www.youtube.com/@AhmedElEmberator",
   "dialogOption": "update",
   "newVersion": "2.47",
-  "isOneTime": "true", 
+  "isOneTime": "false",
   "isOneTimeKey": "update_247",
   "isCancelable": "true",
   "dialogBtnExtra": "true",
   "dialogBtnMain": "true",
-  "customDialogAccent": "#4562EA",
+  "customDialogAccent": "#4562EA", 
   "customDialogBack": "#FFFFFF",
   "customDialogRound": "25",
   "customDialogMainTxtColor": "#212121",
   "customDialogBtnTxtColor": "#FFFFFF",
-  "dialogDownloadLink": "https://www.youtube.com/@AhmedElEmberator"
+  "customDialogIcon": "https://nerbly.com/updatify/apiv1/files/icons/update.png"
 }

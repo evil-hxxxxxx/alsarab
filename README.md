@@ -109,8 +109,8 @@ Key Features in Each Case:
 
 ````json
 {
-  "dialogTitle": "Update Available 🚀",
-  "dialogSubtitle": "A brand-new update is here! 🎉\n\n✅ **Performance Enhancements** – Faster and smoother experience.\n🐞 **Critical Bug Fixes** – Say goodbye to annoying issues.\n✨ **Exciting New Features** – Discover improved functionality and tools.\n\nWe highly recommend updating now to enjoy the best performance, enhanced security, and all the latest features!\n\n🔄 **Tap 'Update Now' to get started!**",
+  "dialogTitle": "🔔 Subscription Required",
+  "dialogSubtitle": "You must subscribe to continue using the app!\n\nPremium Benefits:\n- No Ads\n- Exclusive Content\n- Faster Updates\n\nTap 'Subscribe Now' to proceed!",
   "dialogBtnMainTxt": "Subscribe",
   "dialogBtnExtraTxt": "Exit",
   "dialogBtnMainClick": "browser", 

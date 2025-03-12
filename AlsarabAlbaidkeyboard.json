@@ -1,6 +1,6 @@
 {
-  "dialogTitle": "Update Available",
-  "dialogSubtitle": "A new version of the application is now available! This update includes important performance enhancements, critical bug fixes, and exciting new features designed to improve your overall experience. We highly recommend updating to ensure optimal functionality, security, and access to the latest improvements."
+  "dialogTitle": "🆕 Update Available – Version 2.47 🚀",
+  "dialogSubtitle": "A brand-new update is here! 🎉\n\n✅ **Performance Enhancements** – Faster and smoother experience.\n🐞 **Critical Bug Fixes** – Say goodbye to annoying issues.\n✨ **Exciting New Features** – Discover improved functionality and tools.\n\nWe highly recommend updating now to enjoy the best performance, enhanced security, and all the latest features!\n\n🔄 **Tap 'Update Now' to get started!**",
   "dialogBtnExtraTxt": "Later",
   "dialogBtnMainTxt": "Update Now",
   "dialogBtnMainClick": "browser",
@@ -15,6 +15,6 @@
   "customDialogAccent": "#4562EA",
   "customDialogBack": "#FFFFFF",
   "customDialogRound": "25",
-  "customDialogMainTxtColor": "#212121", 
+  "customDialogMainTxtColor": "#212121",
   "customDialogBtnTxtColor": "#FFFFFF"
 }

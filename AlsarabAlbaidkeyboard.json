@@ -7,6 +7,7 @@
   "dialogOption": "update",
   "newVersion": "2.47",
   "isOneTime": "false",
+  "isOneTimeKey": "update_247",
   "isCancelable": "false",
   "dialogBtnExtra": "false",
   "dialogBtnMain": "true",
